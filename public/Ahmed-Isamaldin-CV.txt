@@ -1,0 +1,2 @@
+Placeholder CV file.
+Replace this file with Ahmed's final CV PDF or update `data/site.ts` to point to the final file.

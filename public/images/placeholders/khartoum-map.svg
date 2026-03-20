@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" fill="none">
+  <rect width="1600" height="1200" fill="#EFE9DE"/>
+  <rect x="60" y="60" width="1480" height="1080" stroke="#0B0B09" stroke-width="8"/>
+  <path d="M240 240L520 410L480 760L720 930L910 770L870 430L1170 260L1310 450L1220 900L940 1020L520 980L180 700z" stroke="#0B0B09" stroke-width="10" fill="#D5CEC2"/>
+  <path d="M300 350L1140 850" stroke="#8D5F3C" stroke-width="18"/>
+  <path d="M1160 320L520 940" stroke="#0B0B09" stroke-width="12" stroke-dasharray="24 18"/>
+  <text x="120" y="180" fill="#0B0B09" font-size="76" font-family="Arial, sans-serif" font-weight="700">KHARTOUM CIVIC MAP</text>
+</svg>

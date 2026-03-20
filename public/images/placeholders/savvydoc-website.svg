@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" fill="none">
+  <rect width="1600" height="1200" fill="#EBE7DE"/>
+  <rect x="70" y="70" width="1460" height="1060" stroke="#0B0B09" stroke-width="8"/>
+  <rect x="120" y="120" width="1360" height="120" fill="#0B0B09"/>
+  <rect x="120" y="280" width="560" height="720" fill="#D0C9BE"/>
+  <rect x="730" y="280" width="700" height="160" fill="#8D5F3C"/>
+  <rect x="730" y="470" width="700" height="110" fill="#0B0B09"/>
+  <rect x="730" y="610" width="700" height="110" fill="#0B0B09"/>
+  <rect x="730" y="750" width="700" height="110" fill="#0B0B09"/>
+  <text x="160" y="205" fill="#F3F1EB" font-size="60" font-family="Arial, sans-serif" font-weight="700">SAVVYDOC WEBSITE</text>
+</svg>

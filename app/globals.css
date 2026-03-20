@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-paper: #f3f1eb;
+  --color-ink: #0b0b09;
+  --color-fog: #cbc5bb;
+  --color-line: #25231d;
+  --color-accent: #8d5f3c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background:
+    linear-gradient(to right, rgba(11, 11, 9, 0.045) 1px, transparent 1px) 0 0 / 36px 36px,
+    linear-gradient(to bottom, rgba(11, 11, 9, 0.045) 1px, transparent 1px) 0 0 / 36px 36px,
+    var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans), sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--color-ink);
+  color: var(--color-paper);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.container-shell {
+  width: min(100%, 1600px);
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+@media (min-width: 768px) {
+  .container-shell {
+    padding-inline: 1.5rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container-shell {
+    padding-inline: 2rem;
+  }
+}
+
+.eyebrow {
+  font-family: var(--font-mono), monospace;
+  font-size: 0.74rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.focus-ring {
+  @apply outline-none ring-0 focus-visible:ring-2 focus-visible:ring-ink focus-visible:ring-offset-2 focus-visible:ring-offset-paper;
+}
+
+.divider-grid {
+  background-image:
+    linear-gradient(to right, rgba(11, 11, 9, 0.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(11, 11, 9, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.noise-overlay::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.12;
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(11, 11, 9, 0.15) 0.5px, transparent 0.75px),
+    radial-gradient(circle at 75% 65%, rgba(11, 11, 9, 0.1) 0.5px, transparent 0.75px);
+  background-size: 12px 12px, 14px 14px;
+}
+
+.balanced-text {
+  text-wrap: balance;
+}

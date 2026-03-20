@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" fill="none">
+  <rect width="1600" height="1200" fill="#F3F1EB"/>
+  <rect x="56" y="56" width="1488" height="1088" stroke="#0B0B09" stroke-width="8"/>
+  <rect x="980" y="120" width="460" height="960" fill="#8D5F3C"/>
+  <path d="M180 220H900V310H180zM180 360H820V430H180zM180 480H720V550H180z" fill="#0B0B09"/>
+  <text x="180" y="760" fill="#0B0B09" font-size="170" font-family="Arial, sans-serif" font-weight="700">POSTER</text>
+  <text x="180" y="920" fill="#0B0B09" font-size="170" font-family="Arial, sans-serif" font-weight="700">DESIGN</text>
+</svg>

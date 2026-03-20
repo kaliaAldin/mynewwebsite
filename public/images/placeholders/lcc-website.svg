@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" fill="none">
+  <rect width="1600" height="1200" fill="#F0ECE3"/>
+  <rect x="80" y="80" width="1440" height="1040" stroke="#0B0B09" stroke-width="8"/>
+  <path d="M120 150H1480" stroke="#0B0B09" stroke-width="8"/>
+  <path d="M800 150V1080" stroke="#0B0B09" stroke-width="8"/>
+  <rect x="140" y="200" width="620" height="830" fill="#0B0B09"/>
+  <rect x="840" y="200" width="600" height="230" fill="#8D5F3C"/>
+  <rect x="840" y="460" width="600" height="160" fill="#D7D0C4"/>
+  <rect x="840" y="650" width="600" height="380" fill="#D7D0C4"/>
+  <text x="890" y="340" fill="#F3F1EB" font-size="84" font-family="Arial, sans-serif" font-weight="700">LCC</text>
+</svg>
