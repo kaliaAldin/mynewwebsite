@@ -11,9 +11,8 @@ export const cvData = {
     github: "https://github.com/kaliaAldin"
   },
   profile: [
-    "Berlin-based graphic and visual designer from Khartoum.",
-    "Works across visual communication and technical production in institutional contexts.",
-    "Available for graphic design, visual design, editorial, web, and cultural communication roles."
+    "Ahmed Isamaldin is a designer and media artist based in Berlin and originally from Khartoum. He studied Visual Communication at weißensee kunsthochschule berlin and previously studied physics in Khartoum and Moscow. His practice works across graphic design, digital media, web-based projects, interactive mapping, and 3D visual production.",
+    "His work is concerned with image-making, spatial representation, archives, and research, often in relation to Sudan. Alongside his artistic and design practice, he has worked in social support and refugee assistance in Berlin. He works across different formats, combining visual, technical, and research-based methods."
   ],
   education: [
     {

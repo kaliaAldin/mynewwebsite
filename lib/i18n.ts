@@ -56,11 +56,9 @@ export const translations = {
       summaryTitle:
         "A Berlin-based designer.",
       summaryText:
-        "Ahmed Isamaldin is a designer from Khartoum, based in Berlin. Trained in physics and visual communication, he works across design and research.",
+        "Ahmed Isamaldin is a designer and media artist based in Berlin and originally from Khartoum. He studied Visual Communication at weißensee kunsthochschule berlin and previously studied physics in Khartoum and Moscow.",
       summaryBullets: [
-        "Based in Berlin, working across graphic design, editorial, web, and exhibition formats.",
-        "Interested in how visual and technical methods respond to violence, displacement, and collective resilience.",
-        "Available for studio, institutional, freelance, and collaborative roles."
+        "His work is concerned with image-making, spatial representation, archives, and research, often in relation to Sudan. Alongside his artistic and design practice, he has worked in social support and refugee assistance in Berlin. He works across different formats, combining visual, technical, and research-based methods."
       ],
       cvSummary: "CV-style summary",
       cvText:
