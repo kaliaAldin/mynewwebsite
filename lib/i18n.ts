@@ -28,16 +28,16 @@ export const translations = {
     },
     home: {
       heroIntro:
-        "Ahmed Isamaldin is a designer from Khartoum, based in Berlin, working across print, editorial, web, and exhibition design.",
+        "Ahmed Isamaldin is a designer and media artist with a Master’s in Visual Communication from weißensee kunsthochschule berlin, and previous studies in physics in Khartoum and Moscow.",
       heroMeta: "Khartoum / Berlin / Graphic Design / Research",
       selectedWorkLabel: "Selected Work",
       selectedWorkTitle: "Applied work first, research in context.",
       selectedWorkDescription:
         "Design work comes first, with research projects included as part of the wider practice.",
       servicesLabel: "Services",
-      servicesTitle: "Clear design, strong systems, cultural context.",
+      servicesTitle: "Clear design, sharp communication.",
       servicesDescription:
-        "Ahmed works across commissioned, institutional, and self-initiated projects with a clear visual approach.",
+        "Ahmed works on commissioned, institutional, and self-initiated projects.",
       services: [
         "Graphic systems for campaigns, institutions, and publications",
         "Editorial design for books, research outputs, and cultural platforms",
@@ -50,17 +50,17 @@ export const translations = {
     },
     about: {
       label: "About",
-      title: "A concise profile across graphic design, research, and cultural communication.",
+      title: "A concise profile.",
       description:
-        "Ahmed Isamaldin is a designer and researcher from Khartoum, based in Berlin. Trained in physics and visual communication, he works across print, editorial, web, exhibition, and digital formats.",
+        "Ahmed Isamaldin is a designer from Khartoum, based in Berlin. Trained in physics and visual communication, he works across print, editorial, web, exhibition, and digital formats.",
       summaryTitle:
-        "A Berlin-based designer working between graphic design, research, and spatial thinking.",
+        "A Berlin-based designer.",
       summaryText:
-        "Ahmed Isamaldin is a designer and researcher from Khartoum, based in Berlin. Trained in physics and visual communication, he works between design, research, and spatial analysis.",
+        "Ahmed Isamaldin is a designer from Khartoum, based in Berlin. Trained in physics and visual communication, he works across design and research.",
       summaryBullets: [
-        "Based in Berlin and working across graphic design, editorial, web, and exhibition formats.",
+        "Based in Berlin, working across graphic design, editorial, web, and exhibition formats.",
         "Interested in how visual and technical methods respond to violence, displacement, and collective resilience.",
-        "Available for studio, institutional, freelance, and collaborative cultural roles."
+        "Available for studio, institutional, freelance, and collaborative roles."
       ],
       cvSummary: "CV-style summary",
       cvText:
@@ -91,7 +91,7 @@ export const translations = {
     },
     footer: {
       text:
-        "Designer and researcher from Khartoum, based in Berlin, working across graphic design, editorial, web, exhibition, and cultural communication."
+        "Designer from Khartoum, based in Berlin."
     },
     filters: {
       all: "All",
@@ -140,16 +140,16 @@ export const translations = {
     },
     home: {
       heroIntro:
-        "Ahmed Isamaldin ist ein Designer aus Khartum mit Sitz in Berlin. Er arbeitet zwischen Print, Editorial, Web und Ausstellungsdesign.",
+        "Ahmed Isamaldin ist ein Designer aus Khartum mit Sitz in Berlin.",
       heroMeta: "Khartum / Berlin / Grafikdesign / Forschung",
       selectedWorkLabel: "Ausgewahlte Arbeiten",
       selectedWorkTitle: "Angewandte Arbeit zuerst, Forschung im Kontext.",
       selectedWorkDescription:
         "Designarbeit steht im Vordergrund, Forschungsprojekte bleiben als Teil der Praxis sichtbar.",
       servicesLabel: "Leistungen",
-      servicesTitle: "Klare Gestaltung, starke Systeme, kultureller Kontext.",
+      servicesTitle: "Klare Gestaltung, praezise Kommunikation.",
       servicesDescription:
-        "Ahmed arbeitet an beauftragten, institutionellen und selbst initiierten Projekten mit einer klaren visuellen Sprache.",
+        "Ahmed arbeitet an beauftragten, institutionellen und selbst initiierten Projekten.",
       services: [
         "Grafische Systeme fur Kampagnen, Institutionen und Publikationen",
         "Editorial Design fur Bucher, Forschungsformate und kulturelle Plattformen",
@@ -162,16 +162,16 @@ export const translations = {
     },
     about: {
       label: "Info",
-      title: "Ein kompaktes Profil zwischen Grafikdesign, Forschung und kultureller Kommunikation.",
+      title: "Ein kompaktes Profil.",
       description:
-        "Ahmed Isamaldin ist Designer und Forscher aus Khartum mit Sitz in Berlin. Mit einem Hintergrund in Physik und visueller Kommunikation arbeitet er in Print, Editorial, Web, Ausstellung und digitalen Formaten.",
-      summaryTitle: "Ein in Berlin arbeitender Designer zwischen Grafikdesign, Forschung und raumlichem Denken.",
+        "Ahmed Isamaldin ist Designer aus Khartum mit Sitz in Berlin. Mit einem Hintergrund in Physik und visueller Kommunikation arbeitet er in Print, Editorial, Web, Ausstellung und digitalen Formaten.",
+      summaryTitle: "Ein in Berlin arbeitender Designer.",
       summaryText:
-        "Ahmed Isamaldin arbeitet zwischen Gestaltung, Forschung und raumlicher Analyse.",
+        "Ahmed Isamaldin arbeitet zwischen Gestaltung und Forschung.",
       summaryBullets: [
         "Arbeitet in Berlin in den Bereichen Grafikdesign, Editorial, Web und Ausstellung.",
         "Interessiert sich fur visuelle und technische Methoden im Umgang mit Gewalt, Vertreibung und kollektiver Resilienz.",
-        "Verfugbar fur Studio-, Institutions-, Freelance- und kollaborative Kulturrollen."
+        "Verfugbar fur Studio-, Institutions-, Freelance- und kollaborative Rollen."
       ],
       cvSummary: "CV-Uberblick",
       cvText:
@@ -197,7 +197,7 @@ export const translations = {
       title: "Verfugbar fur Rollen in Grafik, Editorial, Digitalem und kultureller Kommunikation."
     },
     footer: {
-      text: "Designer und Forscher aus Khartum mit Sitz in Berlin. Arbeit an Grafikdesign, Editorial, Web, Ausstellung und kultureller Kommunikation."
+      text: "Designer aus Khartum mit Sitz in Berlin."
     },
     filters: {
       all: "Alle",

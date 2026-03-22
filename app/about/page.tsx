@@ -23,8 +23,8 @@ export default function AboutPage() {
           <div className="border border-line bg-paper">
             <SectionHeading
               label="About"
-              title="A concise profile across graphic design, research, and cultural communication."
-              description="Ahmed Isamaldin is a designer and researcher from Khartoum, based in Berlin. Trained in physics and visual communication, he works across print, editorial, web, exhibition, and digital formats."
+              title="A concise profile."
+              description="Ahmed Isamaldin is a designer from Khartoum, based in Berlin. Trained in physics and visual communication, he works across print, editorial, web, exhibition, and digital formats."
             />
           </div>
           <div className="grid gap-6 lg:grid-cols-[0.95fr_1.05fr]">
@@ -89,7 +89,7 @@ export default function AboutPage() {
               ))}
             </ul>
             <p className="mt-6 text-sm leading-7 text-ink/76">
-              Based in Berlin and available for graphic design, visual design, editorial, web, and cultural communication roles.
+              Based in Berlin and available for graphic design, visual design, editorial, web, and communication roles.
             </p>
           </div>
         </div>

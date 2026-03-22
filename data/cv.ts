@@ -11,8 +11,8 @@ export const cvData = {
     github: "https://github.com/kaliaAldin"
   },
   profile: [
-    "Berlin-based graphic and visual designer from Khartoum working across print, editorial, web, exhibition, and digital design.",
-    "Works across visual communication, research, and technical production in cultural and institutional contexts.",
+    "Berlin-based graphic and visual designer from Khartoum.",
+    "Works across visual communication and technical production in institutional contexts.",
     "Available for graphic design, visual design, editorial, web, and cultural communication roles."
   ],
   education: [
