@@ -23,8 +23,8 @@ export default function AboutPage() {
           <div className="border border-line bg-paper">
             <SectionHeading
               label="About"
-              title="A concise profile connecting graphic design, research, and cultural communication."
-              description="Ahmed Isamaldin is a media artist, designer, and researcher from Khartoum, based in Berlin. Trained in physics and visual communication, he works across print, editorial, web, exhibition, and digital formats with a practice shaped by spatial analysis, collaborative care, and visual structure."
+              title="A concise profile across graphic design, research, and cultural communication."
+              description="Ahmed Isamaldin is a designer and researcher from Khartoum, based in Berlin. Trained in physics and visual communication, he works across print, editorial, web, exhibition, and digital formats."
             />
           </div>
           <div className="grid gap-6 lg:grid-cols-[0.95fr_1.05fr]">
@@ -52,8 +52,7 @@ export default function AboutPage() {
             <p className="eyebrow text-ink/58">CV-style summary</p>
             <p className="mt-4 text-sm leading-7 text-ink/76">
               Designer and researcher working across graphic design, editorial systems, digital interfaces, and
-              exhibitions. Particularly engaged with questions of displacement, collective resilience, and how visual
-              communication can support cultural and public-facing work.
+              exhibitions.
             </p>
             <CVDownloadButton href={siteConfig.cvHref} className="mt-6 w-full md:w-fit" />
           </div>

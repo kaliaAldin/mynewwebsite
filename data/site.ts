@@ -11,5 +11,5 @@ export const siteConfig = {
     behance: "https://twitter.com/ahmedkalia"
   },
   description:
-    "Berlin-based graphic and visual designer working across print, editorial, web, exhibition, and digital design."
+    "Berlin-based graphic and visual designer working across print, editorial, web, and exhibition design."
 };

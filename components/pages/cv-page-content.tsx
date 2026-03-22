@@ -28,8 +28,8 @@ function BulletList({ items }: { items: string[] }) {
 const cvLocalized = {
   de: {
     profile: [
-      "Grafik- und Visual Designer aus Khartum mit Sitz in Berlin und einer Praxis zwischen Print, Editorial, Web, Ausstellung und digitalem Design.",
-      "Verbindet visuelle Kommunikation, kunstlerische Forschung und technische Produktion mit Erfahrung in kulturellen Institutionen und sozial engagierten Kontexten.",
+      "Grafik- und Visual Designer aus Khartum mit Sitz in Berlin. Arbeitet zwischen Print, Editorial, Web, Ausstellung und digitalem Design.",
+      "Verbindet visuelle Kommunikation, kunstlerische Forschung und technische Produktion in kulturellen und institutionellen Kontexten.",
       "Verfugbar fur Rollen in Grafikdesign, Visual Design, Editorial, Web und kultureller Kommunikation."
     ]
   },
@@ -100,4 +100,3 @@ export function CVPageContent() {
     </article>
   );
 }
-

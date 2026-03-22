@@ -2,7 +2,7 @@ export const cvData = {
   hero: {
     title: "Curriculum Vitae",
     summary:
-      "Graphic and visual designer working across editorial systems, digital interfaces, exhibition formats, and research-led cultural communication.",
+      "Graphic and visual designer working across editorial, digital, exhibition, and cultural communication.",
     location: "Berlin",
     email: "ahmedisamaldin@gmail.com",
     phone: "+49 1577 7015287",
@@ -11,8 +11,8 @@ export const cvData = {
     github: "https://github.com/kaliaAldin"
   },
   profile: [
-    "Berlin-based graphic and visual designer from Khartoum with a practice spanning print, editorial, web, exhibition, and digital design.",
-    "Combines visual communication, artistic research, and technical production with experience in cultural institutions and socially engaged contexts.",
+    "Berlin-based graphic and visual designer from Khartoum working across print, editorial, web, exhibition, and digital design.",
+    "Works across visual communication, research, and technical production in cultural and institutional contexts.",
     "Available for graphic design, visual design, editorial, web, and cultural communication roles."
   ],
   education: [

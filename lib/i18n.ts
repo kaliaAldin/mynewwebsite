@@ -28,16 +28,16 @@ export const translations = {
     },
     home: {
       heroIntro:
-        "Ahmed Isamaldin is a media artist, designer, and researcher from Khartoum, based in Berlin, working across print, editorial, web, and exhibition design. His practice connects visual systems, cultural communication, and digital production with a strong sense of structure and authorship.",
-      heroMeta: "Khartoum / Berlin / Graphic design / Research",
+        "Ahmed Isamaldin is a designer from Khartoum, based in Berlin, working across print, editorial, web, and exhibition design.",
+      heroMeta: "Khartoum / Berlin / Graphic Design / Research",
       selectedWorkLabel: "Selected Work",
-      selectedWorkTitle: "Applied projects first, with research-led work in context.",
+      selectedWorkTitle: "Applied work first, research in context.",
       selectedWorkDescription:
-        "The portfolio foregrounds hireable design work across graphic, editorial, digital, and cultural communication, while still making space for the experimental projects that inform the practice.",
+        "Design work comes first, with research projects included as part of the wider practice.",
       servicesLabel: "Services",
-      servicesTitle: "Graphic clarity, strong systems, and cultural fluency.",
+      servicesTitle: "Clear design, strong systems, cultural context.",
       servicesDescription:
-        "Ahmed works across commissioned, institutional, and self-initiated formats, always aiming for communication that feels structurally sharp and visually distinct.",
+        "Ahmed works across commissioned, institutional, and self-initiated projects with a clear visual approach.",
       services: [
         "Graphic systems for campaigns, institutions, and publications",
         "Editorial design for books, research outputs, and cultural platforms",
@@ -50,21 +50,21 @@ export const translations = {
     },
     about: {
       label: "About",
-      title: "A concise profile connecting graphic design, research, and cultural communication.",
+      title: "A concise profile across graphic design, research, and cultural communication.",
       description:
-        "Ahmed Isamaldin is a media artist, designer, and researcher from Khartoum, based in Berlin. Trained in physics and visual communication, he works across print, editorial, web, exhibition, and digital formats with a practice shaped by spatial analysis, collaborative care, and visual structure.",
+        "Ahmed Isamaldin is a designer and researcher from Khartoum, based in Berlin. Trained in physics and visual communication, he works across print, editorial, web, exhibition, and digital formats.",
       summaryTitle:
-        "A Berlin-based designer whose practice moves between graphic design, research, and spatial thinking.",
+        "A Berlin-based designer working between graphic design, research, and spatial thinking.",
       summaryText:
-        "Ahmed Isamaldin is a media artist, designer, and researcher from Khartoum, based in Berlin. Trained in physics and visual communication, he combines art and design with experience in social work and migration support. His practice bridges artistic research, spatial analysis, and collaborative care.",
+        "Ahmed Isamaldin is a designer and researcher from Khartoum, based in Berlin. Trained in physics and visual communication, he works between design, research, and spatial analysis.",
       summaryBullets: [
         "Based in Berlin and working across graphic design, editorial, web, and exhibition formats.",
-        "Interested in how creative and technological methods can respond to violence, displacement, and collective resilience.",
+        "Interested in how visual and technical methods respond to violence, displacement, and collective resilience.",
         "Available for studio, institutional, freelance, and collaborative cultural roles."
       ],
       cvSummary: "CV-style summary",
       cvText:
-        "Designer and researcher working across graphic design, editorial systems, digital interfaces, and exhibitions. Particularly engaged with questions of displacement, collective resilience, and how visual communication can support cultural and public-facing work.",
+        "Designer and researcher working across graphic design, editorial systems, digital interfaces, and exhibitions.",
       softwareSkills: "Software and skills",
       languagesNotes: "Languages and notes",
       basedNote:
@@ -72,13 +72,13 @@ export const translations = {
     },
     work: {
       label: "Project Index",
-      title: "Work spanning graphic design, editorial systems, web, identity, and cultural communication.",
+      title: "Work across graphic design, editorial, web, identity, and cultural communication.",
       description:
         "Applied and hireable work appears first, while research and artistic projects remain available as part of the wider practice."
     },
     contactPage: {
       label: "Contact",
-      title: "Simple, direct, and professional.",
+      title: "Direct and professional.",
       description:
         "For full-time roles, freelance commissions, editorial collaborations, or cultural projects, get in touch by email or through the links below.",
       primaryContact: "Primary contact",
@@ -91,7 +91,7 @@ export const translations = {
     },
     footer: {
       text:
-        "Media artist, designer, and researcher from Khartoum, based in Berlin, working across graphic design, editorial systems, web, exhibition, and cultural communication."
+        "Designer and researcher from Khartoum, based in Berlin, working across graphic design, editorial, web, exhibition, and cultural communication."
     },
     filters: {
       all: "All",
@@ -105,12 +105,12 @@ export const translations = {
     cv: {
       title: "Curriculum Vitae",
       summary:
-        "Graphic and visual designer working across editorial systems, digital interfaces, exhibition formats, and research-led cultural communication.",
+        "Graphic and visual designer working across editorial, digital, exhibition, and cultural communication.",
       profile: "Profile",
       experience: "Experience",
-      experienceTitle: "Cultural work, communication, and design across institutions and collaborative initiatives.",
+      experienceTitle: "Communication and design across institutions and collaborative initiatives.",
       education: "Education",
-      educationTitle: "Visual communication, media art, and a scientific foundation.",
+      educationTitle: "Visual communication, media art, and a scientific background.",
       languages: "Languages",
       software: "Software",
       coding: "Coding",
@@ -140,16 +140,16 @@ export const translations = {
     },
     home: {
       heroIntro:
-        "Ahmed Isamaldin ist ein Medienkunstler, Designer und Forscher aus Khartum mit Sitz in Berlin. Er arbeitet an den Schnittstellen von Print, Editorial, Web und Ausstellungsdesign. Seine Praxis verbindet visuelle Systeme, kulturelle Kommunikation und digitale Produktion mit einem klaren Gespur fur Struktur und Autorschaft.",
+        "Ahmed Isamaldin ist ein Designer aus Khartum mit Sitz in Berlin. Er arbeitet zwischen Print, Editorial, Web und Ausstellungsdesign.",
       heroMeta: "Khartum / Berlin / Grafikdesign / Forschung",
       selectedWorkLabel: "Ausgewahlte Arbeiten",
-      selectedWorkTitle: "Angewandte Projekte zuerst, forschungsnahe Arbeiten im Kontext.",
+      selectedWorkTitle: "Angewandte Arbeit zuerst, Forschung im Kontext.",
       selectedWorkDescription:
-        "Das Portfolio stellt hireable Designarbeit in den Vordergrund und gibt zugleich den experimentellen Projekten Raum, die die Praxis pragen.",
+        "Designarbeit steht im Vordergrund, Forschungsprojekte bleiben als Teil der Praxis sichtbar.",
       servicesLabel: "Leistungen",
-      servicesTitle: "Grafische Klarheit, starke Systeme und kulturelle Sensibilitat.",
+      servicesTitle: "Klare Gestaltung, starke Systeme, kultureller Kontext.",
       servicesDescription:
-        "Ahmed arbeitet an beauftragten, institutionellen und selbst initiierten Formaten und entwickelt Kommunikation, die strukturell scharf und visuell eigenstandig bleibt.",
+        "Ahmed arbeitet an beauftragten, institutionellen und selbst initiierten Projekten mit einer klaren visuellen Sprache.",
       services: [
         "Grafische Systeme fur Kampagnen, Institutionen und Publikationen",
         "Editorial Design fur Bucher, Forschungsformate und kulturelle Plattformen",
@@ -164,13 +164,13 @@ export const translations = {
       label: "Info",
       title: "Ein kompaktes Profil zwischen Grafikdesign, Forschung und kultureller Kommunikation.",
       description:
-        "Ahmed Isamaldin ist Medienkunstler, Designer und Forscher aus Khartum mit Sitz in Berlin. Mit einem Hintergrund in Physik und visueller Kommunikation arbeitet er in Print, Editorial, Web, Ausstellung und digitalen Formaten.",
+        "Ahmed Isamaldin ist Designer und Forscher aus Khartum mit Sitz in Berlin. Mit einem Hintergrund in Physik und visueller Kommunikation arbeitet er in Print, Editorial, Web, Ausstellung und digitalen Formaten.",
       summaryTitle: "Ein in Berlin arbeitender Designer zwischen Grafikdesign, Forschung und raumlichem Denken.",
       summaryText:
-        "Ahmed Isamaldin verbindet Kunst und Design mit Erfahrung in sozialer Arbeit und Migrationsunterstutzung. Seine Praxis bewegt sich zwischen kuenstlerischer Forschung, raumlicher Analyse und kollaborativer Sorgfalt.",
+        "Ahmed Isamaldin arbeitet zwischen Gestaltung, Forschung und raumlicher Analyse.",
       summaryBullets: [
         "Arbeitet in Berlin in den Bereichen Grafikdesign, Editorial, Web und Ausstellung.",
-        "Interessiert sich fur kreative und technologische Methoden im Umgang mit Gewalt, Vertreibung und kollektiver Resilienz.",
+        "Interessiert sich fur visuelle und technische Methoden im Umgang mit Gewalt, Vertreibung und kollektiver Resilienz.",
         "Verfugbar fur Studio-, Institutions-, Freelance- und kollaborative Kulturrollen."
       ],
       cvSummary: "CV-Uberblick",
@@ -187,7 +187,7 @@ export const translations = {
     },
     contactPage: {
       label: "Kontakt",
-      title: "Einfach, direkt und professionell.",
+      title: "Direkt und professionell.",
       description: "Fur Festanstellungen, Freelance-Projekte, Editorial-Kooperationen oder kulturelle Formate kontaktieren Sie Ahmed per E-Mail oder uber die Links unten.",
       primaryContact: "Primarer Kontakt",
       body: "Mit Sitz in Berlin und offen fur Remote-, Hybrid- und Vor-Ort-Rollen in Grafikdesign, Visual Design, Editorial, Web, Ausstellung und kultureller Kommunikation.",
@@ -197,7 +197,7 @@ export const translations = {
       title: "Verfugbar fur Rollen in Grafik, Editorial, Digitalem und kultureller Kommunikation."
     },
     footer: {
-      text: "Medienkunstler, Designer und Forscher aus Khartum mit Sitz in Berlin. Arbeit an Grafikdesign, Editorial-Systemen, Web, Ausstellung und kultureller Kommunikation."
+      text: "Designer und Forscher aus Khartum mit Sitz in Berlin. Arbeit an Grafikdesign, Editorial, Web, Ausstellung und kultureller Kommunikation."
     },
     filters: {
       all: "Alle",
@@ -210,10 +210,10 @@ export const translations = {
     },
     cv: {
       title: "Lebenslauf",
-      summary: "Grafik- und Visual Designer mit Arbeit an Editorial-Systemen, digitalen Interfaces, Ausstellungsformaten und forschungsnaher kultureller Kommunikation.",
+      summary: "Grafik- und Visual Designer mit Arbeit in Editorial, digitalen Interfaces, Ausstellung und kultureller Kommunikation.",
       profile: "Profil",
       experience: "Erfahrung",
-      experienceTitle: "Kulturelle Arbeit, Kommunikation und Design in Institutionen und kollaborativen Initiativen.",
+      experienceTitle: "Kommunikation und Design in Institutionen und kollaborativen Initiativen.",
       education: "Ausbildung",
       educationTitle: "Visuelle Kommunikation, Medienkunst und eine wissenschaftliche Grundlage.",
       languages: "Sprachen",
