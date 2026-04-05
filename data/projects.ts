@@ -412,9 +412,18 @@ function buildSummary(text: string, fallback: string) {
 
 export const projects: Project[] = baseProjects.map((project) => {
   const imported = migratedProjectMap.get(project.slug);
+  const posterDesignGallery = Array.from({ length: 15 }, (_, index) =>
+    `/images/imported/poster-design/gallery-${String(index + 1).padStart(2, "0")}.jpg`
+  );
 
   if (!imported) {
-    return project;
+    return project.slug === "poster-design"
+      ? {
+          ...project,
+          featuredImage: "/images/imported/poster-design/featured.jpg",
+          gallery: posterDesignGallery
+        }
+      : project;
   }
 
   const localizedFeaturedImage = imported.importedFeaturedImage
@@ -444,8 +453,18 @@ export const projects: Project[] = baseProjects.map((project) => {
       ((imported.importedCategory as StoredProjectCategory | undefined) || project.category),
     summary: imported.importedDescription ? buildSummary(imported.importedDescription, project.summary) : project.summary,
     description: imported.importedDescription ? cleanImportedText(imported.importedDescription) : project.description,
-    featuredImage: project.slug === "foood-app-design" ? project.featuredImage : localizedFeaturedImage,
-    gallery: project.slug === "foood-app-design" ? project.gallery : localizedGallery,
+    featuredImage:
+      project.slug === "foood-app-design"
+        ? project.featuredImage
+        : project.slug === "poster-design"
+          ? "/images/imported/poster-design/featured.jpg"
+          : localizedFeaturedImage,
+    gallery:
+      project.slug === "foood-app-design"
+        ? project.gallery
+        : project.slug === "poster-design"
+          ? posterDesignGallery
+          : localizedGallery,
     tags: imported.importedTags?.length ? [...imported.importedTags] : project.tags
   };
 });
